@@ -1,0 +1,1067 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Rien City
+    probability: 1
+  - name: Blaideburg
+    probability: 1
+  - name: New Delphi
+    probability: 1
+  - name: Flying CPU City
+    probability: 1
+  - name: Beuchi Town
+    probability: 1
+  - name: Tea Devil Depot
+    probability: 1
+  - name: Adamsterdam
+    probability: 1
+  - name: Drek's Blarg Base
+    probability: 1
+  - name: Viki Village
+    probability: 1
+  - name: Batplug Cave
+    probability: 1
+  - name: Jubileus City
+    probability: 1
+  - name: Dashy Dorf
+    probability: 1
+  - name: Hazel Homestead
+    probability: 1
+  - name: Shoop City
+    probability: 1
+  - name: Jimtown
+    probability: 1
+  - name: Limsa Lominsa
+    probability: 1
+  - name: Ul'dah
+    probability: 1
+  - name: New Gridania
+    probability: 1
+  - name: Old Sharlayan
+    probability: 1
+  - name: New Vegas
+    probability: 1
+  - name: Khorinis
+    probability: 1
+  - name: Cannon Cove
+    probability: 1
+  - name: Crescent Isle
+    probability: 1
+  - name: Lone Cove
+    probability: 1
+  - name: Mermaid's Hideaway
+    probability: 1
+  - name: Sailor's Bounty
+    probability: 1
+  - name: Smugglers' Bay
+    probability: 1
+  - name: Wanderers Refuge
+    probability: 1
+  - name: Alwarren
+    probability: 1
+  - name: Crook's Hollow
+    probability: 1
+  - name: Devil's Ridge
+    probability: 1
+  - name: Discovery Ridge
+    probability: 1
+  - name: Plunder Valley
+    probability: 1
+  - name: Shark Bait Cove
+    probability: 1
+  - name: Snake Island
+    probability: 1
+  - name: Thieves' Haven
+    probability: 1
+  - name: Kraken's Fall
+    probability: 1
+  - name: Marauder's Arch
+    probability: 1
+  - name: Old Faithful Isle
+    probability: 1
+  - name: Shipwreck Bay
+    probability: 1
+  - name: The Crooked Masts
+    probability: 1
+  - name: The Sunken Grove
+    probability: 1
+  - name: Ashen Reaches
+    probability: 1
+  - name: Fetcher's Rest
+    probability: 1
+  - name: Flintlock Peninsula
+    probability: 1
+  - name: Ruby's Fall
+    probability: 1
+  - name: The Devil's Thirst
+    probability: 1
+  - name: Boulder Cay
+    probability: 1
+  - name: Lagoon of Whispers
+    probability: 1
+  - name: Lonely Isle
+    probability: 1
+  - name: Picaroon Palms
+    probability: 1
+  - name: Rapier Cay
+    probability: 1
+  - name: Rum Runner Isle
+    probability: 1
+  - name: Salty Sands
+    probability: 1
+  - name: Sandy Shallows
+    probability: 1
+  - name: Sea Dog's Rest
+    probability: 1
+  - name: Twin Groves
+    probability: 1
+  - name: Barnacle Cay
+    probability: 1
+  - name: Booty Isle
+    probability: 1
+  - name: Castaway Isle
+    probability: 1
+  - name: Chicken Isle
+    probability: 1
+  - name: Cutlass Cay
+    probability: 1
+  - name: Fools Lagoon
+    probability: 1
+  - name: Lookout Point
+    probability: 1
+  - name: Mutineer Rock
+    probability: 1
+  - name: Old Salts Atoll
+    probability: 1
+  - name: Paradise Spring
+    probability: 1
+  - name: Black Sands Atoll
+    probability: 1
+  - name: Ardea
+    probability: 1
+  - name: Raddock
+    probability: 1
+  - name: Cape Dun
+    probability: 1
+  - name: Montera
+    probability: 1
+  - name: Faring
+    probability: 1
+  - name: Vanguard
+    probability: 1
+  - name: Silden
+    probability: 1
+  - name: Geldern
+    probability: 1
+  - name: Trellis
+    probability: 1
+  - name: Black Water Enclave
+    probability: 1
+  - name: Blind Man's Lagoon
+    probability: 1
+  - name: Isle of Last Words
+    probability: 1
+  - name: Novigrad
+    probability: 1
+  - name: Velen
+    probability: 1
+  - name: Kaer Morhen
+    probability: 1
+  - name: Oxenfurt
+    probability: 1
+  - name: Skellige
+    probability: 1
+  - name: Toussaint
+    probability: 1
+  - name: White Orchard
+    probability: 1
+  - name: Liar's Backbone
+    probability: 1
+  - name: Plunderer's Plight
+    probability: 1
+  - name: Scurvy Isley
+    probability: 1
+  - name: Shark Tooth Key
+    probability: 1
+  - name: Shiver Retreat
+    probability: 1
+  - name: Tri-Rock Isle
+    probability: 1
+  - name: The Fairy Glade
+    probability: 1
+  - name: Glade of Dreams
+    probability: 1
+  - name: The Menhir Hills
+    probability: 1
+  - name: Bog of Murk
+    probability: 1
+  - name: Land of the Living Dead
+    probability: 1
+  - name: Bongo Hills
+    probability: 1
+  - name: Allegro Presto
+    probability: 1
+  - name: Band Land
+    probability: 1
+  - name: Candy Chateau
+    probability: 1
+  - name: Crystal Palace
+    probability: 1
+  - name: Gong Heights
+    probability: 1
+  - name: Picture City
+    probability: 1
+  - name: Brimstone Rock
+    probability: 1
+  - name: Cinder Islet
+    probability: 1
+  - name: Cursewater Shores
+    probability: 1
+  - name: Flame's End
+    probability: 1
+  - name: The Forsaken Brink
+    probability: 1
+  - name: Glowstone Cay
+    probability: 1
+  - name: Magma's Tide
+    probability: 1
+  - name: Castle Rock
+    probability: 1
+  - name: Roaring Sands
+    probability: 1
+  - name: Gloo Gloo
+    probability: 1
+  - name: Scorches Pass
+    probability: 1
+  - name: Arceuus
+    probability: 1
+  - name: Port Piscarilius
+    probability: 1
+  - name: Cutopia
+    probability: 1
+  - name: Malevalance
+    probability: 1
+  - name: Zanydu
+    probability: 1
+  - name: Shayzien
+    probability: 1
+  - name: Hosidius
+    probability: 1
+  - name: Civitas illa Fortis
+    probability: 1
+  - name: Saint Denis
+    probability: 1
+  - name: Annesburg
+    probability: 1
+  - name: Armadillo
+    probability: 1
+  - name: Fort Wallace
+    probability: 1
+  - name: Tumbleweed
+    probability: 1
+  - name: Rhodes
+    probability: 1
+  - name: Blackwater
+    probability: 1
+  - name: Valentine
+    probability: 1
+  - name: Aldarin
+    probability: 1
+  - name: Prifddinas
+    probability: 1
+  - name: Ardougne
+    probability: 1
+  - name: Armello
+    probability: 1
+  - name: Yanille
+    probability: 1
+  - name: Rellekka
+    probability: 1
+  - name: Burthorpe
+    probability: 1
+  - name: Catherby
+    probability: 1
+  - name: Taverly
+    probability: 1
+  - name: South Park
+    probability: 1
+  - name: Entrana
+    probability: 1
+  - name: Silent Hill
+    probability: 1
+  - name: Falador
+    probability: 1
+  - name: Brimhaven
+    probability: 1
+  - name: Karamja
+    probability: 1
+  - name: Rimmington
+    probability: 1
+  - name: Port Sarim
+    probability: 1
+  - name: Draynor Village
+    probability: 1
+  - name: Shilo Village
+    probability: 1
+  - name: Ferox Enclave
+    probability: 1
+  - name: Varrock
+    probability: 1
+  - name: Edgeville
+    probability: 1
+  - name: Lumbridge
+    probability: 1
+  - name: Al Kharid
+    probability: 1
+  - name: Pollnivneach
+    probability: 1
+  - name: Nardah
+    probability: 1
+  - name: Menaphos
+    probability: 1
+  - name: Sophanem
+    probability: 1
+  - name: Harmony
+    probability: 1
+  - name: Chocobo Forest
+    probability: 1
+  - name: Canifis
+    probability: 1
+  - name: Port Phasmatys
+    probability: 1
+  - name: Darkmeyer
+    probability: 1
+  - name: Slepe
+    probability: 1
+  - name: Rubacava
+    probability: 1
+  - name: El Marrow
+    probability: 1
+  - name: Puerto Zapato
+    probability: 1
+  - name: Nuevo Marrow
+    probability: 1
+  - name: Slepe
+    probability: 1
+  - name: Burgh de Rott
+    probability: 1
+  - name: Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II
+    probability: 1
+  - name: Teufort
+    probability: 1
+  - name: Double Cross
+    probability: 1
+  - name: Sawmill
+    probability: 1
+  - name: Turbine
+    probability: 1
+  - name: Well
+    probability: 1
+  - name: Badlands
+    probability: 1
+  - name: Foundry
+    probability: 1
+  - name: Cold Front
+    probability: 1
+  - name: Granary
+    probability: 1
+  - name: Gullwash
+    probability: 1
+  - name: Metalworks
+    probability: 1
+  - name: Process
+    probability: 1
+  - name: Snakewater
+    probability: 1
+  - name: Sunshine
+    probability: 1
+  - name: Harvest
+    probability: 1
+  - name: Dustbowl
+    probability: 1
+  - name: Gorge
+    probability: 1
+  - name: Gravelpit
+    probability: 1
+  - name: Steel
+    probability: 1
+  - name: Barnblitz
+    probability: 1
+  - name: Borneo
+    probability: 1
+  - name: Frontier
+    probability: 1
+  - name: Gold Rush
+    probability: 1
+  - name: Hoodoo
+    probability: 1
+  - name: Swiftwater
+    probability: 1
+  - name: Thunder Mountain
+    probability: 1
+  - name: Upward
+    probability: 1
+  - name: Hightower
+    probability: 1
+  - name: Nucleus
+    probability: 1
+  - name: Viaduct
+    probability: 1
+  - name: Lakeside
+    probability: 1
+  - name: Kong King
+    probability: 1
+  - name: Maple Ridge
+    probability: 1
+  - name: Suijin
+    probability: 1
+  - name: Doomsday
+    probability: 1
+  - name: Rottenburg
+    probability: 1
+  - name: Walled City 99
+    probability: 1
+  - name: Skag Gully
+    probability: 1
+  - name: Arid Hills
+    probability: 1
+  - name: New Haven
+    probability: 1
+  - name: Treacher's Landing
+    probability: 1
+  - name: The Rust Commons
+    probability: 1
+  - name: Old Haven
+    probability: 1
+  - name: The Salt Flats
+    probability: 1
+  - name: The Descent
+    probability: 1
+  - name: Green Hill Zone
+    probability: 1
+  - name: Crimson Enclave
+    probability: 1
+  - name: Sawtooth Cauldron
+    probability: 1
+  - name: Eridium Blight
+    probability: 1
+  - name: Arid Nexus
+    probability: 1
+  - name: Lynchwood
+    probability: 1
+  - name: Tacarigua
+    probability: 1
+  - name: Antigua
+    probability: 1
+  - name: Caldera
+    probability: 1
+  - name: Sword Coast
+    probability: 1
+  - name: Thousand Cuts
+    probability: 1
+  - name: Calador
+    probability: 1
+  - name: Taranis
+    probability: 1
+  - name: Opportunity
+    probability: 1
+  - name: Three Horns Valley
+    probability: 1
+  - name: The Fridge
+    probability: 1
+  - name: Tundra Express
+    probability: 1
+  - name: Sanctuary
+    probability: 1
+  - name: The Dust
+    probability: 1
+  - name: Frostburn Canyon
+    probability: 1
+  - name: Lacuna
+    probability: 1
+  - name: Red City
+    probability: 1
+  - name: Southern Shelf
+    probability: 1
+  - name: Concordia
+    probability: 1
+  - name: Helios
+    probability: 1
+  - name: Primm
+    probability: 1
+  - name: Freeside
+    probability: 1
+  - name: Westside
+    probability: 1
+  - name: Goodsprings
+    probability: 1
+  - name: Jacobstown
+    probability: 1
+  - name: Rivet City
+    probability: 1
+  - name: Megaton
+    probability: 1
+  - name: Andale
+    probability: 1
+  - name: Arefu
+    probability: 1
+  - name: Big Town
+    probability: 1
+  - name: Canterbury Commons
+    probability: 1
+  - name: Grayditch
+    probability: 1
+  - name: Raven Rock
+    probability: 1
+  - name: Little Lamplight
+    probability: 1
+  - name: Hidden Valley
+    probability: 1
+  - name: Bitter Springs
+    probability: 1
+  - name: Astera
+    probability: 1
+  - name: Seliana
+    probability: 1
+  - name: Kamura Village
+    probability: 1
+  - name: Elgado Outpost
+    probability: 1
+  - name: Boulder City
+    probability: 1
+  - name: Nipton
+    probability: 1
+  - name: Novac
+    probability: 1
+  - name: Reach
+    probability: 1
+  - name: Los Santos
+    probability: 1
+  - name: Liberty City
+    probability: 1
+  - name: Vice City
+    probability: 1
+  - name: San Andreas
+    probability: 1
+  - name: San Fierro
+    probability: 1
+  - name: Alderney
+    probability: 1
+  - name: Algonquin
+    probability: 1
+  - name: Las Venturas
+    probability: 1
+  - name: Chernarus
+    probability: 1
+  - name: Rapture
+    probability: 1
+  - name: Arcadia
+    probability: 1
+  - name: Lost Izalith
+    probability: 1
+  - name: New Londo
+    probability: 1
+  - name: Anor Londo
+    probability: 1
+  - name: Darkroot Garden
+    probability: 1
+  - name: Forest of Fallen Giants
+    probability: 1
+  - name: Arkham City
+    probability: 1
+  - name: Black Mesa
+    probability: 1
+  - name: Majula
+    probability: 1
+  - name: Huntsman's Copse
+    probability: 1
+  - name: Harvest Valley
+    probability: 1
+  - name: Iron Keep
+    probability: 1
+  - name: Black Gulch
+    probability: 1
+  - name: Blood Gulch
+    probability: 1
+  - name: Shaded Woods
+    probability: 1
+  - name: Brightstone Cove Tseldora
+    probability: 1
+  - name: Shulva
+    probability: 1
+  - name: Avalon Heights
+    probability: 1
+  - name: Marrow
+    probability: 1
+  - name: Ventz
+    probability: 1
+  - name: Oldtown
+    probability: 1
+  - name: The Spire
+    probability: 1
+  - name: Albina
+    probability: 1
+  - name: Ochuba
+    probability: 1
+  - name: Eleum Loyce
+    probability: 1
+  - name: Lothric
+    probability: 1
+  - name: Wildwood
+    probability: 1
+  - name: Farron Keep
+    probability: 1
+  - name: Irithyll
+    probability: 1
+  - name: Profaned Capital
+    probability: 1
+  - name: Carthus
+    probability: 1
+  - name: Inkwell
+    probability: 1
+  - name: The Ringed City
+    probability: 1
+  - name: Nokron
+    probability: 1
+  - name: Snowdin
+    probability: 1
+  - name: Nokstella
+    probability: 1
+  - name: Noklateo
+    probability: 1
+  - name: Temmie Village
+    probability: 1
+  - name: Stormveil
+    probability: 1
+  - name: Raya Lucaria
+    probability: 1
+  - name: Leyndell
+    probability: 1
+  - name: Farum Azula
+    probability: 1
+  - name: Belurat
+    probability: 1
+  - name: Shadow Keep
+    probability: 1
+  - name: Enir-Ilim
+    probability: 1
+  - name: Hamlet
+    probability: 1
+  - name: Darkwood
+    probability: 1
+  - name: Godard Docks
+    probability: 1
+  - name: Greenvale
+    probability: 1
+  - name: Blanc Brinery
+    probability: 1
+  - name: Golden Acres
+    probability: 1
+  - name: Salter's Pork
+    probability: 1
+  - name: Lawson Station
+    probability: 1
+  - name: Maw Battery
+    probability: 1
+  - name: Arden Parish
+    probability: 1
+  - name: Sweetbell Flour
+    probability: 1
+  - name: Arx
+    probability: 1
+  - name: Windy Run
+    probability: 1
+  - name: Iron Works
+    probability: 1
+  - name: Fort Carmick
+    probability: 1
+  - name: Fort Joy
+    probability: 1
+  - name: Wolfshead Arsenal
+    probability: 1
+  - name: Hemlock and Hide
+    probability: 1
+  - name: Donut County
+    probability: 1
+  - name: Downwell
+    probability: 1
+  - name: Fort Bolden
+    probability: 1
+  - name: Heritage Pork
+    probability: 1
+  - name: Lower DeSalle
+    probability: 1
+  - name: Seven Sisters Estate
+    probability: 1
+  - name: Upper DeSalle
+    probability: 1
+  - name: Cassardis
+    probability: 1
+  - name: Gran Soren
+    probability: 1
+  - name: Vernworth
+    probability: 1
+  - name: Battahl
+    probability: 1
+  - name: Melve
+    probability: 1
+  - name: Checkpoint Rest Town
+    probability: 1
+  - name: Monteros Malt
+    probability: 1
+  - name: Machine Gorge
+    probability: 1
+  - name: Miner's Folly
+    probability: 1
+  - name: Gateway
+    probability: 1
+  - name: Baldur's Gate
+    probability: 1
+  - name: Alligator New York
+    probability: 1
+  - name: Experimentation
+    probability: 1
+  - name: Gordion
+    probability: 1
+  - name: Assurance
+    probability: 1
+  - name: Vow
+    probability: 1
+  - name: Offense
+    probability: 1
+  - name: March
+    probability: 1
+  - name: Adamance
+    probability: 1
+  - name: Rend
+    probability: 1
+  - name: Dine
+    probability: 1
+  - name: Titan
+    probability: 1
+  - name: Artifice
+    probability: 1
+  - name: Embrion
+    probability: 1
+  - name: Pleasant Valley
+    probability: 1
+  - name: Desolation Point
+    probability: 1
+  - name: Bleak Inlet
+    probability: 1
+  - name: Blackrock
+    probability: 1
+  - name: Dornogal
+    probability: 1
+  - name: Valdrakken
+    probability: 1
+  - name: Orgrimmar
+    probability: 1
+  - name: Stormwind City
+    probability: 1
+  - name: Shattrath City
+    probability: 1
+  - name: Dalaran
+    probability: 1
+  - name: Boralus
+    probability: 1
+  - name: Dazar'alor
+    probability: 1
+  - name: Silvermoon City
+    probability: 1
+  - name: Darnassus
+    probability: 1
+  - name: Thunder Bluff
+    probability: 1
+  - name: Undercity
+    probability: 1
+  - name: Ironforge
+    probability: 1
+  - name: Stormshield
+    probability: 1
+  - name: The Exodar
+    probability: 1
+  - name: Warspear
+    probability: 1
+  - name: Oribos
+    probability: 1
+  - name: Elpis
+    probability: 1
+  - name: Rupture
+    probability: 1
+  - name: The Mire
+    probability: 1
+  - name: Shantytown
+    probability: 1
+  - name: Akenash
+    probability: 1
+  - name: Mor Dhona
+    probability: 1
+  - name: Ishgard
+    probability: 1
+  - name: Ala Mhigo
+    probability: 1
+  - name: Eulmore
+    probability: 1
+  - name: Crystarium
+    probability: 1
+  - name: Kugane
+    probability: 1
+  - name: Tuliyollal
+    probability: 1
+  - name: Outskirts
+    probability: 1
+  - name: Shaded Citadel
+    probability: 1
+  - name: Losomn
+    probability: 1
+  - name: Yaesha
+    probability: 1
+  - name: N'Erud
+    probability: 1
+  - name: Sim City
+    probability: 1
+  - name: Bikini Bottom
+    probability: 1
+  - name: Pleasantview
+    probability: 1
+  - name: Strangetown
+    probability: 1
+  - name: Veronaville
+    probability: 1
+  - name: Riverblossom Hills
+    probability: 1
+  - name: Desiderata Valley
+    probability: 1
+  - name: Belladonna Cove
+    probability: 1
+  - name: Busan
+    probability: 1
+  - name: Junkertown
+    probability: 1
+  - name: Stone Hill
+    probability: 1
+  - name: King's Row
+    probability: 1
+  - name: Eichenwalde
+    probability: 1
+  - name: Dark Hollow
+    probability: 1
+  - name: Dry Canyon
+    probability: 1
+  - name: Cliff Town
+    probability: 1
+  - name: Alpine Ridge
+    probability: 1
+  - name: Terrace Village
+    probability: 1
+  - name: Misty Bog
+    probability: 1
+  - name: Tree Tops
+    probability: 1
+  - name: Twilight Harbor
+    probability: 1
+  - name: Glimmer
+    probability: 1
+  - name: Valheim
+    probability: 1
+  - name: Idol Springs
+    probability: 1
+  - name: Colossus
+    probability: 1
+  - name: Sunny Beach
+    probability: 1
+  - name: Hurricos
+    probability: 1
+  - name: Skelos Badlands
+    probability: 1
+  - name: Breeze Harbor
+    probability: 1
+  - name: Zephyr
+    probability: 1
+  - name: Fracture Hills
+    probability: 1
+  - name: Shady Oasis
+    probability: 1
+  - name: Monkey Island
+    probability: 1
+  - name: Mystic Marsh
+    probability: 1
+  - name: Cloud Temples
+    probability: 1
+  - name: Metropolis
+    probability: 1
+  - name: Ishar
+    probability: 1
+  - name: Sunrise Spring
+    probability: 1
+  - name: Sunny Villa
+    probability: 1
+  - name: Cloud Spires
+    probability: 1
+  - name: Seashell Shore
+    probability: 1
+  - name: Spooky Swamp
+    probability: 1
+  - name: Bamboo Terrace
+    probability: 1
+  - name: Evening Lake
+    probability: 1
+  - name: Lost Fleet
+    probability: 1
+  - name: Charmed Ridge
+    probability: 1
+  - name: Midnight Mountain
+    probability: 1
+  - name: Night City
+    probability: 1
+  - name: Desert Ruins
+    probability: 1
+  - name: N. Sane Beach
+    probability: 1
+  - name: The Lost City
+    probability: 1
+  - name: Sunset Vista
+    probability: 1
+  - name: Turtle Woods
+    probability: 1
+  - name: Toad Village
+    probability: 1
+  - name: Bone Yard
+    probability: 1
+  - name: The Glow
+    probability: 1
+  - name: The Hub
+    probability: 1
+  - name: Junktown
+    probability: 1
+  - name: Necropolis
+    probability: 1
+  - name: Shady Sands
+    probability: 1
+  - name: Arroyo
+    probability: 1
+  - name: Broken Hills
+    probability: 1
+  - name: Den
+    probability: 1
+  - name: Gecko
+    probability: 1
+  - name: Golgotha
+    probability: 1
+  - name: Klamath
+    probability: 1
+  - name: Modoc
+    probability: 1
+  - name: Navarro
+    probability: 1
+  - name: Vault City
+    probability: 1
+  - name: Littleroot Town
+    probability: 1
+  - name: Oldale Town
+    probability: 1
+  - name: Petalburg City
+    probability: 1
+  - name: Rustboro City
+    probability: 1
+  - name: Dewford Town
+    probability: 1
+  - name: Slateport City
+    probability: 1
+  - name: Mauville City
+    probability: 1
+  - name: Verdanturf Town
+    probability: 1
+  - name: Fallarbor Town
+    probability: 1
+  - name: Lavaridge Town
+    probability: 1
+  - name: Fortree City
+    probability: 1
+  - name: Lilycove City
+    probability: 1
+  - name: Mossdeep City
+    probability: 1
+  - name: Sootopolis City
+    probability: 1
+  - name: Pacifidlog Town
+    probability: 1
+  - name: Ever Grande City
+    probability: 1
+  - name: New Bark Town
+    probability: 1
+  - name: Cherrygrove City
+    probability: 1
+  - name: Violet City
+    probability: 1
+  - name: Azalea Town
+    probability: 1
+  - name: Goldenrod City
+    probability: 1
+  - name: Ecruteak City
+    probability: 1
+  - name: Olivine City
+    probability: 1
+  - name: Cianwood City
+    probability: 1
+  - name: Mahogany Town
+    probability: 1
+  - name: Blackthorn City
+    probability: 1
+  - name: Pallet Town
+    probability: 1
+  - name: Viridian City
+    probability: 1
+  - name: Pewter City
+    probability: 1
+  - name: Cerulean City
+    probability: 1
+  - name: Vermillion City
+    probability: 1
+  - name: Lavender Town
+    probability: 1
+  - name: Celadon City
+    probability: 1
+  - name: Fuchsia City
+    probability: 1
+  - name: Saffron City
+    probability: 1
+  - name: Cinnabar Island
+    probability: 1
+  - name: Vaniville Town
+    probability: 1
+  - name: Aquacorde Town
+    probability: 1
+  - name: Santalune City
+    probability: 1
+  - name: Lumiose City
+    probability: 1
+  - name: Camphrier Town
+    probability: 1
+  - name: Cyllage City
+    probability: 1
+  - name: Ambrette Town
+    probability: 1
+  - name: Geosenge Town
+    probability: 1
+  - name: Shalour City
+    probability: 1
+  - name: Coumarine City
+    probability: 1
+  - name: Laverre City
+    probability: 1
+  - name: Dendemille Town
+    probability: 1
+  - name: Anistar City
+    probability: 1
+  - name: Couriway Town
+    probability: 1
+  - name: Snowbelle City
+    probability: 1
+  - name: Kiloude City
+    probability: 1
+name: 'New Townname #0'
+source: null
+subsets: []
